@@ -335,5 +335,9 @@ npm run build
 ---
 
 ### 👤 Author & Architecture
-Architected with precision by **[@envyakki](https://github.com/envyakki)**.  
+Architected with precision by **[@envyakki](https://github.com/envyakki)**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-4999a7444/)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/envyakki)
+
 Open-source under the **MIT License**.
