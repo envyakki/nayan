@@ -11,3 +11,7 @@ NAYAN maintains strict security posture across all edge ANPR and telemetry nodes
 For vulnerability disclosures regarding ANPR pipelines or API keys:
 - Email directly to: **`akshchik12@gmail.com`**
 - All critical telemetry vulnerabilities are investigated within 24 hours.
+
+## Telemetry & Incident Response Team
+- Primary Architect: **@envyakki** (Akshay Kumar)
+- Telemetry Verification: **@nvmakshay24-cpu**
